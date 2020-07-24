@@ -1,0 +1,71 @@
+.mainbody{
+    border: 4px solid #327fa8;
+    padding-bottom: 7px;
+    font-weight: lighter;
+    
+}
+.upperbody{
+    padding-top: 2px;
+    padding-left: 2px;
+    padding-right: 10px;
+}
+.corner{
+    float: left;
+    width: 220px;
+    height: 110px;
+    
+}
+.logo{
+    float: left;
+    padding-top: 2px;
+    padding-left: 180px;
+    text-align: right;
+    width: 250px;
+    height: 80px;
+    
+
+}
+.body{
+    padding-left: 30px;
+    padding-right: 20px;
+    font-weight: lighter;
+    
+}
+ul li, center{
+    font-weight: lighter;
+}
+
+
+#left{
+    text-align: left;
+    position: absolute;
+    
+    width: 50%;
+    float: left;
+    
+    font-weight: lighter;
+}
+#right{
+    text-align: right;
+    
+    width: 50%;
+    float: left;
+    
+    font-weight: lighter;
+}
+img{
+    width: 30%;
+}
+
+#left,#right{
+    font-size: small;
+    line-height: 0.5px;
+}
+.heading{
+    font-weight: bold;
+    font-size: x-large;
+}
+.everything{
+    height: 160px;
+    width: 240px;
+}
